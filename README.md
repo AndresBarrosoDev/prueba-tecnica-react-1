@@ -8,4 +8,4 @@ El componente `Card` está diseñado para mostrar información estructurada en f
 
 ## Despliegie
 
-Puedes encontrar el despliegue de la aplicación aquí[aquí](https://andresbarrosodev.github.io/prueba-tecnica-react-1/)
+Puedes encontrar el despliegue de la aplicación [aquí](https://andresbarrosodev.github.io/prueba-tecnica-react-1/)
